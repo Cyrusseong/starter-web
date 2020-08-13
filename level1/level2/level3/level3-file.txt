@@ -1,0 +1,4 @@
+The MyScaffold widget organizes its children in a vertical column. At the top of the column it places an instance of MyAppBar, passing the app bar a Text widget to use as its title. Passing widgets as arguments to other widgets is a powerful technique that lets you create generic widgets that can be reused in a wide variety of ways. Finally, MyScaffold uses an Expanded to fill the remaining space with its body, which consists of a centered message.
+
+For more information, see Layouts.
+
