@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Update master2 in master branch
 =======
 master2 file
@@ -8,3 +9,35 @@ master2 file
 
 master2 file
 >>>>>>> Move text line
+=======
+Update master2 in master branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+branchFromHead commit
+>>>>>>> branch from header commit here
