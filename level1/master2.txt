@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Update master2 in master branch
 =======
 master2 file
 >>>>>>> Update master2 file
+=======
+
+master2 file
+>>>>>>> Move text line
