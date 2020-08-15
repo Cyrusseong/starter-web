@@ -8,3 +8,7 @@ new-change: new-change has typed some text here.
 
 add-something: Add some text here.
 add-something: Add some more text here.
+
+
+
+simple-change: edit something
