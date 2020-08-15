@@ -12,3 +12,4 @@ add-something: Add some more text here.
 
 
 simple-change: edit something
+simple-change: edit something again.
