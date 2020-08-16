@@ -26,3 +26,5 @@ new-troubble: comment here
 
 master: everything is going well in local repository.
 origin master: origin has changed this file.
+
+master: comment for git revert
