@@ -1,0 +1,8 @@
+<<<<<<< Updated upstream
+It's froget the project has same file  in stash.
+=======
+This is a fresh file
+>>>>>>> Stashed changes
+
+
+some change
